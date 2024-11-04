@@ -1,2 +1,3 @@
-# -Linear-Algebra-Basics
- Intuition and Python Applications
+# Linear-Algebra-Basics: Intuition and Python Applications
+
+ See [Notebook](
